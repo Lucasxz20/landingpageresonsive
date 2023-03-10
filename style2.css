@@ -1,0 +1,210 @@
+
+    body{
+        font-family:'Poppins', sans-serif ;
+        background-color: aliceblue;
+    }
+.hud{ 
+    font-family: 'Poppins', sans-serif;
+    margin-left: 800px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+
+.sobre{ 
+    font-family: 'Poppins', sans-serif;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+.portf{ margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+.contat{ margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+.texto1{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.ola{
+    color: #4885C5;
+}
+.texto2{
+    margin-left:200px ;
+    margin-right: 400px; 
+}
+
+.forma{
+    background-color: rgb(255, 255, 255);
+    margin: 50px 500px 20px 200px;
+    padding: 10px;
+    border: 3px inset black;
+
+
+}
+.academico{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.projetos{
+    text-align: center;
+    margin-top: 100px;
+}
+.about{ 
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.skills {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .skills h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+  }
+  
+  .skills li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .skills li span {
+    margin-right: 10px;
+    font-weight: bold;
+    width: 100px;
+  }
+  
+  .skills .progress-bar {
+    height: 10px;
+    width: 100px;
+    background-color: #4885C5;
+  }
+
+  .projects{ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+  }
+  
+  .projects2{
+    background-color: rgb(255, 255, 255);
+    margin: 50px;
+    padding: 30px;
+    border: 3px inset black;
+    width: 150px;
+    height: 150px;
+    box-shadow: 10px 10px 10px black
+  }
+  .contato {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .card-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: calc(50% - 10px);
+  }
+  
+  .card-form h2 {
+    margin-top: 0;
+  }
+  
+  .card-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-form label {
+    margin-bottom: 5px;
+  }
+  
+  .card-form input,
+  .card-form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .card-form button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .card-form button[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  .card-social { 
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: calc(50% - 10px);
+  }
+  
+  .card-social img{
+    width: 50px;
+  }
+
+  .card-social h2 {
+    margin-top: 0;
+  }
+  
+  .card-social ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 20px 0;
+  }
+  
+  .card-social li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .card-social a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .card-social a:hover {
+    text-decoration: underline;
+  }
+  
+  .card-social i {
+    margin-right: 5px;
+  }
+  
+  
+  
